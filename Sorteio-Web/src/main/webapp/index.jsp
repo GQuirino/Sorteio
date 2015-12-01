@@ -17,13 +17,14 @@
 
 <form id="centro">
 <h3>Sorteio de 1 a 10</h3>
-<input type="submit" value="Sortear">
-<input type="submit" value="Reiniciar">						
+
+<input type="submit" value="Sortear" name="sortear">
+<input type="submit" value="Reiniciar" name="reiniciar">
+						
 </form>
 
 					
 <%
-
 
 %>
 
